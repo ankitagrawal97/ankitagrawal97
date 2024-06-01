@@ -5,7 +5,7 @@
 
 - 🌱 Fun Fact: **I also draw and watch Anime!**
 
-- 🤝 I’m looking for opportunities to work on: on **NodeJS and ReactJS**
+- 🤝 I’m looking for opportunities to work on: **NodeJS and ReactJS**
 
 - 🥅 2024 Goals: **Learn about NextJs and Kafka**
 
